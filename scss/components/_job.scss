@@ -1,0 +1,40 @@
+/* -----------our-job-------------- */
+.our-job{
+    padding-bottom: 94px;
+}
+.our{
+    display: flex;
+    gap: var(--indent);
+}
+.our__item{
+    position: relative;
+}
+.our__item .liners__item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    height: 70px;
+    bottom: 0;
+    left: 0;
+
+    font-weight: 700;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: var(--whitecolor);
+    background-color: rgba(47, 48, 58, 0.8);
+}
+.our-work {
+    font-size: 36px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    color: var(--primary-text-color);
+    margin-bottom: 50px;
+    text-align: center;
+}
+.button-menu-p{
+    margin-bottom: 34px;
+}

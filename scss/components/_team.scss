@@ -1,0 +1,43 @@
+/* ----------------team block------------------ */
+.team-block {
+    background-color: var(--button-color);
+    padding: 94px 0;
+}
+.our-team{
+    margin-bottom: 50px;
+    font-size: 36px;
+    text-align: center;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    color: var(--primary-text-color);
+}
+.tema{
+    display: flex;
+    gap: var(--indent);
+}
+.tema .team__item{
+    background-color: var(--whitecolor);
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+}
+.team__form{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.team__name{
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.18;
+    letter-spacing: 0.03em;   
+    color: var(--primary-text-color);
+}
+.position{
+    margin-bottom: 16px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.18;
+    letter-spacing: 0.03em;
+    color: var(--title-text-color);
+}

@@ -1,0 +1,13 @@
+:root{
+ --primary-text-color:  #212121;
+ --title-text-color:  #757575;
+ --accent-color:  #2196F3;
+ --button-color:  #F5F4FA;
+ --blackcolor: #000000;
+ --whitecolor: #ffffff;
+ --2Acolor: #2F303A;
+ --clients-logo: #AFB1B8;
+
+ --items: 1;
+ --indent: 30px;
+} 

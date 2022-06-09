@@ -1,0 +1,34 @@
+/* ----------section work---------- */
+.menu{
+    padding: 94px 0;
+}
+.work{
+    display: flex;
+    gap: var(--indent);
+}
+.work__link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+
+    width: 270px;
+    height: 120px;
+
+    background-color: var(--button-color);
+    border-radius: 4px;
+}
+.BenefitsH{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.BenefitsP{
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: var(--title-text-color);
+}
